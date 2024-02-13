@@ -1,0 +1,9 @@
+2024-02-04 03:11:19:891 +0900 - Completing MAMP PRO installation - BEGIN
+2024-02-04 03:11:19:898 +0900 - Copying MAMP databases - STARTED
+2024-02-04 03:11:19:899 +0900 - Creating copies of the MAMP databases located in '/Applications/MAMP/db/mysql57' at '/Applications/MAMP/db/mysql57' (Modifications you make using MAMP PRO will go to these copies and will not be available in MAMP (which will continue to use the original databases).
+2024-02-04 03:11:21:027 +0900 - Copying MAMP databases - ENDED
+2024-02-04 03:11:22:049 +0900 - Importing MAMP localhost - STARTED
+2024-02-04 03:11:22:050 +0900 - The document root of MAMP's localhost will be copied to '~/Sites/localhost' (Modifications you make using MAMP PRO will go to this copy and will not be available in MAMP (which will continue to use the original document root).
+2024-02-04 03:11:27:086 +0900 - Importing MAMP localhost - ENDED
+2024-02-04 03:11:29:020 +0900 - Completing MAMP PRO installation - END
+
